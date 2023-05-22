@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@rocketseate/eslint-config/node"
+  ]
+}
